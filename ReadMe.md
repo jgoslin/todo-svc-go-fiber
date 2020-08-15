@@ -2,6 +2,7 @@ This is a slightly enhanced version of:
 ** youtube-go-fiber-introduction **
 An introduction to Fiber an express-like library for golang
 Youtube video: https://youtu.be/MfFi4Gt-tos
+Github: https://github.com/EQuimper/youtube-go-fiber-introduction
 
 In this version I have connected to a locally running mongodb server for my datastore. I have used the standard MongoDB driver.
 I have also structured the project as below:
